@@ -30,7 +30,7 @@
  [Windows/Mac/Linux 全平台客户端](https://www.zybuluo.com/cmd/)
  
  
- ###图片
+ ### 图片
  
 ![cmd-markdown-logo](https://www.zybuluo.com/static/img/logo.png)
 
